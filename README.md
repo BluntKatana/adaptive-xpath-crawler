@@ -5,13 +5,13 @@ This is the official code for paper _"[tbd]"_.
 ## Setup
 
 ```bash
-# Clone the AutoScraper repository
+# Clone the adaptive-xpath-crawler repository
 git clone [todo]
 
 # Change directory into the cloned repository
 cd adaptive-xpath-crawler
 
-# Optional: Create a Conda environment for AutoScraper
+# Optional: Create a Conda environment for adaptive-xpath-crawler
 # conda create -n adaptive-xpath-crawler python=3.11
 # conda activate adaptive-xpath-crawler
 
