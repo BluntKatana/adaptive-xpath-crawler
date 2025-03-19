@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 ## Important references
 
-- [AutoScraper](https://github.com/EZ-hwh/AutoScraper/tree/main)
-- [XPath Agent](https://github.com/eavae/feilian)
+- [AutoScraper](https://arxiv.org/abs/2404.12753)
+- [XPath Agent](https://arxiv.org/abs/2502.15688)
